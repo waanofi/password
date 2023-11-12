@@ -1,0 +1,5 @@
+django | mamejafer32@gmail.com | pass
+pyhton | mamejafer32@gmail.com | pypass
+facebook | mamejafer@gmail.com | 1234
+twitter | mamejafer@gmail.com | twpass
+pypi | mamejafer32@gmail.com | B1tD(1GsOAV+8#H(d
